@@ -1,0 +1,9 @@
+{
+    "Config":{
+        "DebugType": 0,
+        "NotFoundError":"Command not found"
+    },
+    "Commands":{
+        "!Hello":"Hello world!"
+    }
+}
