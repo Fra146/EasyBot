@@ -1,3 +1,10 @@
+#©Fra146 2020
+#This software is under GPL-3.0 License
+#You can't distribute a closed version of this software
+
+
+"If you are here to contribute, thank you!"
+
 import discord, json
 
 def die(reason):
