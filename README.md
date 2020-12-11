@@ -1,7 +1,7 @@
 # Welcome to the EasyBot!
 Easy bot is a simple solution for making a Discord bot with Python
 
-Currently this is version v0.6
+Currently this is version v0.7
 
 ## Get started
 
